@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/texala/static/css/main.17002d3b.chunk.css",
+    "main.js": "/texala/static/js/main.0bc6ecb0.chunk.js",
+    "main.js.map": "/texala/static/js/main.0bc6ecb0.chunk.js.map",
+    "runtime-main.js": "/texala/static/js/runtime-main.d78799e2.js",
+    "runtime-main.js.map": "/texala/static/js/runtime-main.d78799e2.js.map",
+    "static/css/2.bf2004ed.chunk.css": "/texala/static/css/2.bf2004ed.chunk.css",
+    "static/js/2.2742b03a.chunk.js": "/texala/static/js/2.2742b03a.chunk.js",
+    "static/js/2.2742b03a.chunk.js.map": "/texala/static/js/2.2742b03a.chunk.js.map",
+    "index.html": "/texala/index.html",
+    "precache-manifest.4ee9360ee952456eb18ce2f7b1ba753e.js": "/texala/precache-manifest.4ee9360ee952456eb18ce2f7b1ba753e.js",
+    "service-worker.js": "/texala/service-worker.js",
+    "static/css/2.bf2004ed.chunk.css.map": "/texala/static/css/2.bf2004ed.chunk.css.map",
+    "static/css/main.17002d3b.chunk.css.map": "/texala/static/css/main.17002d3b.chunk.css.map",
+    "static/js/2.2742b03a.chunk.js.LICENSE.txt": "/texala/static/js/2.2742b03a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d78799e2.js",
+    "static/css/2.bf2004ed.chunk.css",
+    "static/js/2.2742b03a.chunk.js",
+    "static/css/main.17002d3b.chunk.css",
+    "static/js/main.0bc6ecb0.chunk.js"
+  ]
+}
