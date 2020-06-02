@@ -1,0 +1,35 @@
+.leftMenu {
+    color: #5a5a5a;
+    background-color: #fff;
+    text-align: left;
+    height: 100vh;
+    padding: 20px 0 0;
+    width: 0;
+    -webkit-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    transition: all .5s ease;
+    border-right: 1px solid #cdcdcd;
+}
+
+.openMenu{
+    width: 200px;
+    display: block;
+}
+.CloseMenu{
+    width: 0;
+    display: none;
+}
+
+.menuItemHead {
+    font-size: 16px;
+}
+
+.menuItemIcon {
+    margin: 12px;
+}
+
+.subMenu {
+    color: #518ef8;
+    margin-left: 50px;
+    cursor: pointer;
+}

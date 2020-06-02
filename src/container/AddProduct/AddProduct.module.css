@@ -1,0 +1,45 @@
+
+.addProductWrapper {
+    padding: 24px;
+}
+
+.header {
+    font-size: 32px;
+}
+
+.collapse {
+    margin-top: 30px;
+}
+
+.panel {
+    background: #fff;
+    /*margin: 20px 0;*/
+    /*margin-bottom: 22px;*/
+    border-bottom: 20px solid #f5f6fa !important;
+}
+
+.ant-select {
+    width: 100% !important;
+}
+.uploadImage {
+
+}
+
+.labelOnBorder{
+    margin-top: 2px !important;
+}
+.labelOnBorder .ant-form-item-control-input-content {
+    position: relative;
+}
+.labelOnBorder label{
+    position: absolute;
+    top: -12px;
+    left: 25px;
+    background-color: white;
+    z-index: 1;
+    padding: 0 5px;
+}
+.addProductWrapper .ant-select-selector {
+    background: #e5e9f2 !important;
+}
+
