@@ -12,7 +12,10 @@ function App() {
             <Router>
                 <Switch>
                     <Route exact path='/'>
-                        <Redirect to={routeRules.login}/>
+                        <Redirect to={routeRules.productList}/>
+                    </Route>
+                    <Route exact path='/texala'>
+                        <Redirect to={routeRules.productList}/>
                     </Route>
                     {
                         routesData.map(route => {
