@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "891406d400fa7dffe5a9ac65c49ee8f9",
+    "revision": "c1c7e629eb4f50f200bbcf2e55207ef0",
     "url": "/texala/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/texala/static/css/2.bf2004ed.chunk.css"
   },
   {
-    "revision": "721e03a9f99e95dfe4ce",
+    "revision": "1cf779cbbf440b260aba",
     "url": "/texala/static/css/main.17002d3b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/texala/static/js/2.2742b03a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "721e03a9f99e95dfe4ce",
-    "url": "/texala/static/js/main.0bc6ecb0.chunk.js"
+    "revision": "1cf779cbbf440b260aba",
+    "url": "/texala/static/js/main.90c336c5.chunk.js"
   },
   {
     "revision": "955f62b645927e398f27",
